@@ -8,7 +8,6 @@ import base64 as b64
 
 
 key = ''
-zip_pass = 'CacheBucketList'
 BaseRequest.MEMFILE_MAX = 1024 * 1024 
 
 # the decorator
